@@ -1,6 +1,6 @@
 package org.codexdei.thread.examples;
 
-import org.codexdei.thread.examples.runnable.TaskTrip;
+import org.codexdei.thread.examplessync.runnable.TaskTrip;
 
 public class ExampleImplementRunnable {
 

@@ -1,6 +1,4 @@
-package org.codexdei.thread.examples.runnable;
-
-import org.codexdei.thread.examples.ThreadSynchronizationExample;
+package org.codexdei.thread.examplessync.runnable;
 
 import static org.codexdei.thread.examples.ThreadSynchronizationExample.showMessage;
 

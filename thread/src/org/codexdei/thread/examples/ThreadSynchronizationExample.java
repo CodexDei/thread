@@ -1,6 +1,6 @@
 package org.codexdei.thread.examples;
 
-import org.codexdei.thread.examples.runnable.PrintPhrases;
+import org.codexdei.thread.examplessync.runnable.PrintPhrases;
 
 public class ThreadSynchronizationExample{
 

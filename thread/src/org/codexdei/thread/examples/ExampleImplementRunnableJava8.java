@@ -1,8 +1,6 @@
     package org.codexdei.thread.examples;
 
-import org.codexdei.thread.examples.runnable.TaskTrip;
-
-public class ExampleImplementRunnableJava8 {
+    public class ExampleImplementRunnableJava8 {
 
     public static void main(String[] args) {
 

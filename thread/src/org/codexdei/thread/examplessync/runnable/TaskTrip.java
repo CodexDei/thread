@@ -1,4 +1,4 @@
-package org.codexdei.thread.examples.runnable;
+package org.codexdei.thread.examplessync.runnable;
 
 public class TaskTrip implements Runnable{
 
